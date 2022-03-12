@@ -4,6 +4,6 @@
 - 🌱 I’m currently learning **TS**
 - ⌚ I'm learning before: **Python, C#, C++**
 - 👯 I’m looking to collaborate
-- 📫 How to reach me: Discord: **Dave_Shelby#8298** [Telegram](https://t.me/Dave_Shelby)
+- 📫 How to reach me: Discord: **whereiam#7267** [Telegram](https://t.me/Dave_Shelby)
 
 - 👨‍💻 [We are Legion](https://discord.gg/thecollective)
