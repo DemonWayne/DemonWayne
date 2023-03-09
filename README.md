@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 currently working on **JavaScript/TypeScript( / react)**
+- 🔭 currently working on **JavaScript/TypeScript( / react(+ next))**
 - 🌱 learning **Front-End development / Back-End development / Other**
 - ⌚ learn before: **C#, C++, Python**
 - 📫 reach me: [Discord](https://discord.com/users/481344295354368020) and [Telegram](https://t.me/demonwayne1)
