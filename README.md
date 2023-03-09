@@ -13,7 +13,7 @@
 - 🔭 Зараз працюю на **JavaScript/TypeScript( / react(+ next))**
 - 🌱 Вчу **Front-End розробку / Back-End розробку / Інше**
 - ⌚ Вчив раніше: **C#, C++, Python**
-- 📫 Зв'язок зі мною: [Discord](https://discord.com/users/481344295354368020) and [Telegram](https://t.me/demonwayne1)
+- 📫 Зв'язок зі мною: [Discord](https://discord.com/users/481344295354368020) або [Telegram](https://t.me/demonwayne1)
 
 </p>
 </details>
