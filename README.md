@@ -1,8 +1,9 @@
 ### Hi there 👋
 
 - 🔭 currently working on **JavaScript/TypeScript( / react(+ next))**
-- 🌱 learning **C++, Front-End development / Back-End development / Other**
-- ⌚ learn before: **C#, Python**
+- 🌱 learning: **C++, Python, Rust, DevOps**
+- 👀 passive learning: **Front-End development / Back-End development**
+- ⌚ learn before: **C#**
 - 📫 reach me: [Discord](https://discord.com/users/481344295354368020) and [Telegram](https://t.me/demonwayne1)
 
 <details><summary>Українською</summary>
@@ -11,7 +12,8 @@
 ### Вітаю 👋
 
 - 🔭 Зараз працюю на **JavaScript/TypeScript( / react(+ next))**
-- 🌱 Вчу **C++, Front-End розробку / Back-End розробку / Інше**
+- 🌱 Вчу: **C++, Python, Rust, DevOps**
+- 👀 Пасивно вчу: **Front-End розробку / Back-End розробку**
 - ⌚ Вчив раніше: **C#, Python**
 - 📫 Зв'язок зі мною: [Discord](https://discord.com/users/481344295354368020) або [Telegram](https://t.me/demonwayne1)
 
