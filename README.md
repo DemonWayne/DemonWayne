@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 - 🔭 currently working on **JavaScript/TypeScript( / react(+ next))**
+- 🎩 temporarily working on **PHP**
 - 🌱 learning: **C++, Python, Rust, DevOps**
 - 👀 passive learning: **Front-End development / Back-End development**
 - ⌚ learn before: **C#**
@@ -12,6 +13,7 @@
 ### Вітаю 👋
 
 - 🔭 Зараз працюю на **JavaScript/TypeScript( / react(+ next))**
+- 🎩 Тимчасово працюю на **PHP**
 - 🌱 Вчу: **C++, Python, Rust, DevOps**
 - 👀 Пасивно вчу: **Front-End розробку / Back-End розробку**
 - ⌚ Вчив раніше: **C#, Python**
