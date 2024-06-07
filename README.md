@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 - 🔭 currently working on **JavaScript/TypeScript( / react(+ next))**
-- 🎩 temporarily working on **PHP**
+- 🎩 temporarily working on **PHP, C#**
 - 🌱 learning: **C++, Python, Rust, DevOps**
 - 👀 passive learning: **Front-End development / Back-End development**
-- ⌚ learn before: **C#**
+- ⌚ learn before: **Go**
 - 📫 reach me: [Discord](https://discord.com/users/481344295354368020) and [Telegram](https://t.me/demonwayne1)
 
 <details><summary>Українською</summary>
@@ -13,10 +13,10 @@
 ### Вітаю 👋
 
 - 🔭 Зараз працюю на **JavaScript/TypeScript( / react(+ next))**
-- 🎩 Тимчасово працюю на **PHP**
+- 🎩 Тимчасово працюю на **PHP, C#**
 - 🌱 Вчу: **C++, Python, Rust, DevOps**
 - 👀 Пасивно вчу: **Front-End розробку / Back-End розробку**
-- ⌚ Вчив раніше: **C#, Python**
+- ⌚ Вчив раніше: **Go**
 - 📫 Зв'язок зі мною: [Discord](https://discord.com/users/481344295354368020) або [Telegram](https://t.me/demonwayne1)
 
 </p>
