@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 - 🔭 currently working on **TypeScript/JavaScript( / react(+ next) / nestjs)**
-- 🎩 temporarily working on **PHP**
-- 🌱 learning: **Rust, DevOps**
-- 👀 passive learning: **Front-End development / Back-End development**
-- ⌚ learn before: **Go, C#, C++, Python**
+- 🎩 temporarily working on: -
+- 🌱 learning: -
+- 👀 passive learning: **Front-End development / Back-End development, Rust, DevOps**
+- ⌚ have learn/worked with before: **Go, C#, C++, Python** / **PHP**
 - 📫 reach me: [Discord](https://discord.com/users/481344295354368020) and [Telegram](https://t.me/demonwayne1)
 
 <details><summary>Українською</summary>
@@ -13,10 +13,10 @@
 ### Вітаю 👋
 
 - 🔭 Зараз працюю на **TypeScript/JavaScript( / react(+ next) / nestjs)**
-- 🎩 Тимчасово працюю з **PHP**
-- 🌱 Вчу: **Rust, DevOps**
-- 👀 Пасивно вчу: **Front-End розробку / Back-End розробку**
-- ⌚ Вчив раніше: **Go, C#, C++, Python**
+- 🎩 Тимчасово працюю з: -
+- 🌱 Вчу: -
+- 👀 Пасивно вчу: **Front-End розробку / Back-End розробку, Rust, DevOps**
+- ⌚ Вчив/працював раніше: **Go, C#, C++, Python** / **PHP**
 - 📫 Зв'язок зі мною: [Discord](https://discord.com/users/481344295354368020) або [Telegram](https://t.me/demonwayne1)
 
 </p>
