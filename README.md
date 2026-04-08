@@ -23,7 +23,6 @@
 </details>
 
 <!-- General stats of profile -->
-![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=demonwayne)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=demonwayne\&show_icons=true\&theme=radical\&title_color=5865f2\&text_color=ff6633)
 
 ## :ukraine: Слава Україні!
